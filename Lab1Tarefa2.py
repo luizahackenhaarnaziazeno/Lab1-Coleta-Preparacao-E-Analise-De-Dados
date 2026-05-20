@@ -1,4 +1,4 @@
-#Luiza Hackenhaar Naziazeno
+#Gabrielle Guarani da Silva e Luiza Hackenhaar Naziazeno
 
 from flask import Flask
 from flask import jsonify #add o import jsonify
